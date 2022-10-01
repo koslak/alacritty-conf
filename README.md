@@ -10,8 +10,8 @@ This is my general configuration file for Alacritty (for Windows).
 ~\AppData\Roaming\alacritty\alacritty.yml
 ```
 
-2. Install the “Source Code Pro” font, you can download it from here: https://fonts.google.com/specimen/Source+Code+Pro 
-3. Inside the ~\AppData\Roaming\alacritty folder, clone the repository: 
+2. To install the “Source Code Pro” font, you can download it here: https://fonts.google.com/specimen/Source+Code+Pro 
+3. Inside the *~\AppData\Roaming\alacritty* folder, clone the repository: 
 
 ```
 git clone https://github.com/eendroroy/alacritty-theme.git ~/.alacritty-colorscheme
