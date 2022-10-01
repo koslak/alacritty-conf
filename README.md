@@ -17,14 +17,14 @@ This is my general configuration file for Alacritty (for Windows).
 git clone https://github.com/eendroroy/alacritty-theme.git ~/.alacritty-colorscheme
 ```
 
-5. Copy the contents of this repositoriy's alacritty.yml file to your local alacritty.yml file.
+5. Copy the contents of this repositoriy's *alacritty.yml* file to your local *alacritty.yml* file.
 
 ### Changing Theme
 
-6. Inside alacritty.yml file, search for the line "import" and chage the theme used, for example:
+6. Inside *alacritty.yml* file, search for the line "import" and chage the theme used, for example, the following line will use the *darcula* theme:
 
 ```
 import:
-  - ~/.alacritty-colorscheme/themes/moonlight_ii_vscode.yaml
+  - ~/.alacritty-colorscheme/themes/darcula.yaml
 ```
 
