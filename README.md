@@ -1,6 +1,6 @@
 # Alacritty Configuration
 
-This is my general configuration file for Alacritty for windows. 
+This is my general configuration file for Alacritty (for Windows). 
 
 ### Instructions
 
